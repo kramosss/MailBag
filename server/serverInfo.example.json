@@ -1,0 +1,8 @@
+{
+    "smtp" : {
+        "host" : "smtp.gmail.com", "port" : 465,
+        "auth" : { "user" : "YOUR_EMAIL@gmail.com", "pass" : "YOUR_APP_PASSWORD"}},
+    "imap" : {
+        "host" : "imap.gmail.com", "port" : 993,
+        "auth" : { "user" : "YOUR_EMAIL@gmail.com", "pass" : "YOUR_APP_PASSWORD"}}
+}
